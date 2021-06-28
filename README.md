@@ -23,3 +23,4 @@ The following image shows the t tests for each lot and for all lots total at the
 <img src='resources/t_tests.PNG'>
 
 ## Study Design" MechaCar vs Competition
+In order to compare the MechaCar to its competators, I think picking one metric 0-60 time would be of interest to car enthusiasts, and using different competitor car makers as the other variables to perform an ANOVA test of 5 different car makes. The data needed for this would be at least 30 trials for each car brand. The null hypothesis being that data for these different cars shows statistically the same 0-60 time, and alternative would be that the Mechacar has shorter 0-60 times. 
